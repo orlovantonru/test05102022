@@ -1,0 +1,3 @@
+rootProject.name = 'test05102022'
+include 'L01-gradle'
+include 'hw01-gradle'
